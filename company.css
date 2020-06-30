@@ -2,8 +2,8 @@
 
 
 #header{
-            background:url("https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1550&q=600")no-repeat ;
-   			height:450px;
+      background:url("https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1550&q=600")no-repeat ;
+   height:450px;
 background-size:100%;
 
 display:block;
@@ -14,8 +14,8 @@ margin:0;
   		color:white;
   		text-transform: uppercase;
 		font-family: 'Kaushan Script', cursive;
-		padding-top: 100px;
-		font-size: 50px;
+		padding-top: 200px;
+		font-size: 40px;
      }
 
   .cards{
@@ -47,7 +47,11 @@ margin:0;
 }
 .fa{
 	text-align: center;
-	                text-align: center; 
-                width: 100%; 
+        width: 100%; 
 
+}
+hr{
+	width:800px;
+	border-top:1px solid #f8f8f8 ;
+	border-bottom: 1px solid rgba(0,0.8,0.2,0.2);
 }
