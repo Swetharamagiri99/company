@@ -1,0 +1,42 @@
+
+
+
+#header{
+            background:url("https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1520&q=60") ;
+   			height:450px;
+     }
+  .display-3{
+  		color:white;
+  		text-transform: uppercase;
+		font-family: 'Kaushan Script', cursive;
+		padding-top: 100px;
+		font-size: 60px;
+     }
+
+  .cards{
+  	padding-top:0px;
+  }
+
+  .card-header{
+  	text-align: center;
+  }
+
+  .heading{
+ 	font-family: 'Acme', sans-serif;
+	padding-top: 20px;
+	text-align: center;
+  	font-size:40px;
+  	color:#0000A0;
+  		}
+
+  .thumbnail img{
+	width:100%;
+	}
+
+.thumbnail{
+		padding:5px;
+}
+
+.ui.steps{
+	width:100px;
+}
